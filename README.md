@@ -1,0 +1,2 @@
+# EduzTech
+Mini Project
